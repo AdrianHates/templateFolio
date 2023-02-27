@@ -193,6 +193,7 @@ html {
 
 #sobremi12 > div {
   display: flex;
+  cursor: pointer;
   flex-direction: column;
   color: var(--c-blanco);
   justify-content: center;
