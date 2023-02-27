@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/templateFolio/static/css/main.3552a09e.css",
+    "main.js": "/templateFolio/static/js/main.3f738767.js",
+    "static/js/787.28cb0dcd.chunk.js": "/templateFolio/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/templateFolio/index.html",
+    "main.3552a09e.css.map": "/templateFolio/static/css/main.3552a09e.css.map",
+    "main.3f738767.js.map": "/templateFolio/static/js/main.3f738767.js.map",
+    "787.28cb0dcd.chunk.js.map": "/templateFolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3552a09e.css",
+    "static/js/main.3f738767.js"
+  ]
+}
